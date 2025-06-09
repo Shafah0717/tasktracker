@@ -1,0 +1,47 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.sqlite3
+*.log
+
+# Django
+.env
+db.sqlite3
+/staticfiles/
+media/
+
+# VSCode or IDEs
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.bak
+
+# Node/React
+node_modules/
+dist/
+build/
+
+# Tailwind CSS
+*.css.map
+*.js.map
+public/build/
+public/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+
+# PyInstaller
+*.spec
+
+# TypeScript
+*.tsbuildinfo
